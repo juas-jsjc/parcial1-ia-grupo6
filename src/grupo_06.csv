@@ -1,0 +1,16 @@
+barrio,consumo_m3,habitantes,mes
+Centro,1200,500,Enero
+Norte,950,420,Enero
+Sur,1100,480,Enero
+Oriente,800,350,Enero
+Occidente,1050,450,Enero
+Centro,1250,500,Febrero
+Norte,980,420,Febrero
+Sur,1150,480,Febrero
+Oriente,820,350,Febrero
+Occidente,1080,450,Febrero
+Centro,1300,500,Marzo
+Norte,,420,Marzo
+Sur,1200,480,Marzo
+Oriente,850,350,Marzo
+Occidente,110000,450,Marzo
